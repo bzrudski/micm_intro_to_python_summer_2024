@@ -37,8 +37,7 @@ In this workshop, attendees will be introduced to the basics of programming in P
         4.	Introduction to Functions (Function as a Machine)
     2.	Numbers and Comparisons
         1.	Mathematical Operations
-        2.	Integers and Floating-Point Numbers
-        3.	Booleans
+        2.	Booleans
     3.	Intro to Control Flow and Loops (if, while and for)
         1.	Control Flow: the if Statement
         2.	while Loops
