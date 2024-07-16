@@ -1,6 +1,10 @@
 # Intro to Python Workshop
 
+Student version: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intro_to_python_summer_2024/blob/main/code/IntroToPythonBZR.ipynb)
+
+Solutions version:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intro_to_python_summer_2024/blob/main/solutions/IntroToPythonBZR.ipynb)
 
 Dear reader,  
 This repository contains the code, outline and slides for the MiCM Introduction 
